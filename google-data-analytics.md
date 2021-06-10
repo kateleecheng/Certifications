@@ -1,4 +1,4 @@
-[google-data-analytics-certificate (1)](https://user-images.githubusercontent.com/83713522/117268322-bd066e80-ae89-11eb-9c4d-10dc1983bf54.png)
+![google-data-analytics-certificate (1)](https://user-images.githubusercontent.com/83713522/117268322-bd066e80-ae89-11eb-9c4d-10dc1983bf54.png)
 
 
 [**Google Data Analytics Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/D6BJT73AM6RS)
