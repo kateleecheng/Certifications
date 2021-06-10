@@ -1,2 +1,2 @@
 # Certifications
-[Google Data Analytics Specialization @Coursea](Certifications/google-data-analytics.md)
+[Google Data Analytics Specialization @Coursea](kateleecheng/Certifications/google-data-analytics.md)
